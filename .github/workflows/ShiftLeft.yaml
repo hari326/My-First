@@ -8,7 +8,7 @@ jobs:
     env:
       APP_ID: 91d0eea52994f312b27bac31c731a3e52594afdce77c1612a59c9f9080cc4731
       BRANCH_NAME: firstBranch
-      SCAN_ID: fb78310f47417fd939d9aec7e88717d97f24e520121c2059e5f50da9464557e2
+      SCAN_ID: ada064d0d7f841ccaec8373ed222f469f08fed90d9a13ce668c6a6eedeca5b9f
       REQ_URL_MAP: "${{toJSON('{\"SL_API_HOST\":\"https://slapi.dev.securin.io\",\"\
         SL_RESULT_API_HOST\":\"https://slresultapi.dev.securin.io\",\"SL_RESULTPARSER_API_HOST\"\
         :\"https://slresultparserapi.dev.securin.io\"}')}}"
